@@ -6,6 +6,8 @@
 
 🔗 [colevoss](https://www.linkedin.com/in/colevoss/)
 
+🐦 [vossCCo](https://twitter.com/vossCCo)
+
 ## Role
 
 Senior Fullstack Software Engineer
@@ -43,7 +45,7 @@ Vim, Tmux, VSCode, XCode, Unity, Github, macOS
 
 ## Professional Experience
 
-### Verdance
+### 👨‍⚖️ Verdance
 
 #### Senior Software Engineer - Remote | Jan 2023 - May 2023
 
@@ -57,7 +59,7 @@ Contribute to recruiting and hiring processes for Verdance
 - Update interview processes for new candidates to better asses skills
 - Interview several software engineering candidates for various roles
 
-### CircusHR
+### 🎬 CircusHR
 
 #### Senior Software Engineer - Remote | Sept 2022 - Dec 2022
 
@@ -67,7 +69,7 @@ Contribute to product development and infrastructure updates
 - Contribute to updates to authentication systems for product backend
 - Worked closely with infrastructure engineers to update complex CI/CD pipelines
 
-### Campground
+### 🎧 Campground
 
 #### Lead Software Engineer - Remote | Sept 2020 - Sept 2022
 
@@ -83,7 +85,7 @@ provider to another; ie. Spotify to Apple Music, and vice versa
 - Develop real-time stream tracking systems to track user listening activity and create up-to-date
 user and community stream leaderboards
 
-### Adio
+### 🎤 Adio
 
 #### Co-founder + CTO + Lead Fullstack Developer - Remote | June 2016 - Aug 2021
 
@@ -97,7 +99,7 @@ Lead technical development of a real-time collaborative music writing and produc
 - Developed audio visualizer components on both iOS and Web
 - Mentored junior volunteer developers in product development and contributions
 
-### Nelnet
+### 💰 Nelnet
 
 #### Senior Software Engineer - Lincoln, NE | July 2019 - Sept 2020
 
@@ -112,7 +114,7 @@ Assisted in leading a team to develop a white label lending platform focused on 
 COVID-19
 - Interview, hire, and onboard new developers to grow the team
 
-### TerraceAg
+### 🚜 TerraceAg
 
 #### Freelance Software Developer - Lincoln/Remote | June 2017 - Mar 2018
 
@@ -122,7 +124,7 @@ Developed web applications used for farm land sales appraisals
 - Work with designers and back end developers to build front end features
 - Develop spreadsheet-like applications for data entry and processing using React and TypeScript
 
-### CompanyCam
+### 🛠️ CompanyCam
 
 #### Software Developer - Lincoln | Dec 2017 - May 2019
 
@@ -133,7 +135,7 @@ Developed several features both on web and mobile to make field contractors jobs
 - Build public page publishing pipeline for CompanyCam users
 - Implement UI and brand refresh in mobile application using React Native and Apollo GraphQL
 
-### Hudl
+### 🏈 Hudl
 
 #### Front-end Engineer - Lincoln | June 2015 - Dec 2017
 
