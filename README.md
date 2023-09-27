@@ -183,6 +183,14 @@ Lincoln, Nebraska
 
 Rust-like `Result` and `Option` implemented in TypeScript
 
+### [Temperature Blanket](https://tempblanket.vercel.app/)
+
+Web app to get high, low, and average temperatures for Lincoln, Nebraska to assist my wife to crochet
+a temperature blanket in 2023.
+
+- [Nextjs Front end](https://github.com/colevoss/temp-blanket-frontend)
+- [Go Backend](https://github.com/colevoss/temp-blanket-backend)
+
 ### [Gosock](https://github.com/colevoss/gosock)
 
 Light, channel based websocket framework built in Go.
